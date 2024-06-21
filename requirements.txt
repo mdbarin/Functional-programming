@@ -1,0 +1,5 @@
+toolz
+pyrsistent
+hypothesis
+effect
+pytest
